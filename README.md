@@ -22,9 +22,9 @@ This app features all the latest tools and practices in mobile development!
 ## Getting started
 
 1- Navigate to the backend folder and type the command `yarn` to install the dependencies.
-2 - Type the command `yarn dev` to turn on the server
+2 - Type the command `yarn dev` to turn on the server.
 3- Navigate to the frontend folder and type the command `yarn` to install the dependencies.
-4 - Type the command `yarn start` to run the ReactJs application
+4 - Type the command `yarn start` to run the ReactJs application.
 5- Navigate to the mobile folder and type the command `yarn` to install the dependencies.
 6 - Type the command `yarn start` to run the React Native application using the expo.
 
