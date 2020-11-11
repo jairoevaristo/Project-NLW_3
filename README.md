@@ -30,7 +30,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## About 
 
-The application was developed to register orphanages in a city and schedule visiting hours, the application uses TYORM to store the information from registered orphanages, upload photos and store these photos on disk, I learned how to use TypeScript in a project and how its implementation can improve the development of the project. With the project API already made, both the frontend and mobile of the application were built using React and React Native.
+The application was developed to register orphanages in a city and schedule visiting hours, the application uses TypeORM to store the information from registered orphanages, upload photos and store these photos on disk, I learned how to use TypeScript in a project and how its implementation can improve the development of the project. With the project API already made, both the frontend and mobile of the application were built using React and React Native.
 <br><br>
 ## My Contribution to the project
 
